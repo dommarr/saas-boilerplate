@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is boilerplate to start a [NextJS](https://nextjs.org/) + [Supabase](https://supabase.com/docs/) + [Tailwind](https://tailwindcss.com/docs/installation) app.
+
+## Steps to Duplicate
+
+1. [Supabase + NextJS Quickstart](https://supabase.com/docs/guides/with-nextjs)
+2. [Install Tailwind](https://tailwindcss.com/docs/guides/nextjs)
 
 ## Getting Started
 
